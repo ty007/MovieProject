@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="TY-MovieProject"> 
+        <version>1.0.0.0</version> 
+        <url>http://deneme.filminyeri.com/TY-MovieProject.exe</url> 
+        <fileName>TY-MovieProject.exe</fileName> 
+        <md5>dd663333a16409878c8d856696a27f14</md5>
+        <description>Yenilikler: 29/12/2016:
+        1. Buton Eklendi.</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
+
