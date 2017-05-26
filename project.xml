@@ -1,12 +1,15 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TY-MovieProject"> 
-        <version>5.0.0.0</version> 
+        <version>4.3.0.1</version> 
         <url>https://github.com/ty007/MovieProject/blob/master/TY-MovieProject.exe?raw=true</url> 
         <fileName>TY-MovieProject.exe</fileName> 
-        <md5>563a4696327045dbed14757e3b10c077</md5>
-        <description>Yenilikler: 29/12/2016:
-        1. Buton Eklendi.</description> 
+        <md5>5208609718ea6bea2b14707f4b583459</md5>
+        <description>Yenilikler: 26/05/2017:
+        1. Dizi sezon bilgisi güncelleme
+        2. Dizi filtreleme işlemleri
+        3. Veritabanı yedekleme
+        4. İzleme alanı oluşturma</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
