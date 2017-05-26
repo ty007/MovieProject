@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="TY-MovieProject"> 
+        <version>1.0.0.0</version> 
+        <url>https://github.com/ty007/MovieProject/blob/master/TY-MovieProject.exe?raw=true</url> 
+        <fileName>TY-MovieProject.exe</fileName> 
+        <md5>563a4696327045dbed14757e3b10c077</md5>
+        <description>Yenilikler: 29/12/2016:
+        1. Buton Eklendi.</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
+
