@@ -1,13 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TY-MovieProject"> 
-        <version>4.4.0.2</version> 
+        <version>4.4.1.2</version> 
         <url>https://github.com/ty007/MovieProject/raw/master/TY-MovieProject.exe</url> 
         <fileName>TY-MovieProject.exe</fileName> 
-        <md5>ac5f2404f2e42cd62ed30e770eb7a002</md5>
+        <md5>89e17b40698deeb901df844a01e2c136</md5>
         <description>Yenilikler: 08/06/2017:
         1. Dizi eklemeye progressbar eklendi
-        2. Ufak hatalar giderildi</description> 
+        2. Başlangıçtaki bağlantı sorgusu kaldırıldı
+        3. Ufak hatalar giderildi</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
