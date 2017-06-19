@@ -6,9 +6,8 @@
         <fileName>TY-MovieProject.exe</fileName> 
         <md5>12e5cd03f23b00c17ab4254e164c6e13</md5>
         <description>Yenilikler: 19/06/2017:
-        1. İzleme algoritması değiştirildi ! Artık filmin video dosyasını içeren, 
-            filmin adıyla aynı bir klasör oluşturmak yeterli</description> 
-        <launchArgs></launchArgs> 
+        1. İzleme algoritması değiştirildi ! Artık filmin video dosyasını içeren, filmin adıyla aynı bir klasör oluşturmak yeterli</description> 
+        <launchArgs>Deneme</launchArgs> 
     </update> 
 </sharpUpdate>
 
