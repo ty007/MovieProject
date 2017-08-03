@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TY-MovieProject"> 
-        <version>5.0.0.1</version> 
+        <version>5.0.0.2</version> 
         <url>https://github.com/ty007/MovieProject/raw/master/TY-MovieProjectSetup.exe</url> 
         <fileName>TY-MovieProjectSetup.exe</fileName> 
         <md5>0e44c561fc017cffad2cfe4f7cae764b</md5>
