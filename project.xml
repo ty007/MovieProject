@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TY-MovieProject"> 
-        <version>5.3.0.1</version> 
+        <version>5.4.0.1</version> 
         <url>https://github.com/ty007/MovieProject/raw/master/TY-MovieProject.exe</url> 
         <fileName>TY-MovieProject.exe</fileName> 
-        <md5>0e511bbbadd5064b1b9fcdf57df4dc47</md5>
+        <md5>043ec6bf76040ecc94ee6c2d62d7eafc</md5>
         <description>Yenilikler: 23.02.2018:
         1. Hatalar giderildi.
         2. *Tam ekran modu kısmi olarak eklendi.
