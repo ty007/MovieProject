@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="TY-MovieProject"> 
         <version>5.3.0.1</version> 
-        <url>https://raw.githubusercontent.com/master/TY-MovieProject.exe</url> 
+        <url>https://raw.githubusercontent.com/ty007/MovieProject/master/TY-MovieProject.exe</url> 
         <fileName>TY-MovieProject.exe</fileName> 
         <md5>68f3b4c3cb83b85c2073e3b30855813e</md5>
         <description>Yenilikler: 23.02.2018:
